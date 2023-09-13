@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kahlos_Assignment</string>
+    <string name="heading">Call Logs</string>
+    <string name="Sync">Last Sync:</string>
+    <string name="dummy_date">2023-08-29</string>
+    <string name="dummy_time">12:21:43</string>
+    <string name="phone_num">+919999999999</string>
+    <string name="date">Date:</string>
+    <string name="day_of_week">Thursday</string>
+    <string name="date_month_year">12 January 2023</string>
+    <string name="time">18:24:26</string>
+    <string name="duration">|Dur:</string>
+    <string name="call_duration">88ss</string>
+    <string name="from">From:</string>
+    <string name="from_phone_num">8888888888</string>
+    <string name="user_detail_no_recording">009099494044944(48845849954958454984(+919999999999)8493)</string>
+    <string name="icome">INCOMING</string>
+    <string name="outcome">OUTGOING</string>
+
+
+</resources>
